@@ -1,0 +1,31 @@
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/bin/Debug/net5.0/Archivarius.deps.json
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/bin/Debug/net5.0/Archivarius.runtimeconfig.json
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/bin/Debug/net5.0/Archivarius.runtimeconfig.dev.json
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/bin/Debug/net5.0/Archivarius.dll
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/bin/Debug/net5.0/ref/Archivarius.dll
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/bin/Debug/net5.0/Archivarius.pdb
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/Archivarius.csproj.AssemblyReference.cache
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/Archivarius.GeneratedMSBuildEditorConfig.editorconfig
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/Archivarius.AssemblyInfoInputs.cache
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/Archivarius.AssemblyInfo.cs
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/Archivarius.csproj.CoreCompileInputs.cache
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/Archivarius.dll
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/ref/Archivarius.dll
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/Archivarius.pdb
+/Users/serana/Downloads/Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a/obj/Debug/net5.0/Archivarius.genruntimeconfig.cache
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\bin\Debug\net5.0\archivator.exe
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\bin\Debug\net5.0\archivator.deps.json
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\bin\Debug\net5.0\archivator.runtimeconfig.json
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\bin\Debug\net5.0\archivator.runtimeconfig.dev.json
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\bin\Debug\net5.0\archivator.dll
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\bin\Debug\net5.0\archivator.pdb
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\Archivarius.csproj.AssemblyReference.cache
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\Archivarius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\Archivarius.AssemblyInfoInputs.cache
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\Archivarius.AssemblyInfo.cs
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\Archivarius.csproj.CoreCompileInputs.cache
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\archivator.dll
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\refint\archivator.dll
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\archivator.pdb
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\Archivarius.genruntimeconfig.cache
+C:\Users\omarm\Downloads\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a\obj\Debug\net5.0\ref\archivator.dll

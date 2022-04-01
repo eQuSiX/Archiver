@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/serana/.dotnet/store/|arch|/|tfm|",
+      "/Users/serana/.nuget/packages"
+    ]
+  }
+}

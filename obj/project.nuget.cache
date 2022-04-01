@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hZnQrLZbpyNrS2F+mm8VSTW+u73KbaS8NP89IwXTkFrWls+4izc3WwWXB9EumAOTx3uEbZTX7DXvjCCgoXM4Mw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\omarm\\Downloads\\Archivarius-be12955c681b6ee75b413d18926e9ebbeaf6480a_2 (1)\\Archiver\\Archivator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\omarm\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\omarm\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\omarm\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\omarm\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.15\\microsoft.netcore.app.host.win-x64.5.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
